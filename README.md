@@ -1,21 +1,18 @@
-# Hi there 👋, I'm Mehakdeep Kaur!  
+# 💫 About Me:
+ Hi there 👋, I'm Mehakdeep Kaur!  <br><br>🚀 Aspiring Software Developer | Passionate about Building Interactive Web & Physics Simulations  <br><br>### 👨‍💻 About Me  <br>- 🔭 Currently improving my coding skills and preparing for a software development job.  <br>- 🌱 Learning C++, Java, HTML, CSS, SQL, and GitHub.  <br>- 👯 Open to collaborating on interactive web projects, chatbots, and Python automations.  <br>- 🤔 Looking for help with optimizing performance in physics simulations and generative mathematics.  <br>- 💬 Ask me about Java, Android development, and problem-solving strategies.  <br>- 📫 How to reach me: nimrat3802@gmail.com | [LinkedIn](https://www.linkedin.com/in/mehakdeep-kaur-75313230a/) | [GitHub](https://github.com/Mehak-deep) <br>- 😄 Pronouns: She/Her  <br>- ⚡ Fun fact: I work at Subway, where even AI would crash trying to make sense of some customer orders.  <br><br>### 🔧 Technologies & Tools  <br>- 💻 Languages: C++, Java, HTML, CSS, SQL  <br>- 🛠️ Tools & Frameworks: Android Studio, Git, Python Automation  <br>- 📱 Mobile Development: Java (Android)  <br>- 🖥️ Interests: Python Automation, Generative Mathematics, Physics Simulations 
 
-🚀 Aspiring Software Developer | Passionate about Building Interactive Web & Physics Simulations  
 
-### 👨‍💻 About Me  
-- 🔭 Currently improving my coding skills and preparing for a software development job.  
-- 🌱 Learning C++, Java, HTML, CSS, SQL, and GitHub.  
-- 👯 Open to collaborating on interactive web projects, chatbots, and Python automations.  
-- 🤔 Looking for help with optimizing performance in physics simulations and generative mathematics.  
-- 💬 Ask me about Java, Android development, and problem-solving strategies.  
-- 📫 How to reach me: nimrat3802@gmail.com | [LinkedIn](https://www.linkedin.com/in/mehakdeep-kaur-75313230a/) | [GitHub](https://github.com/Mehak-deep) 
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I work at Subway, where even AI would crash trying to make sense of some customer orders.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehakdeep-kaur-75313230a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimrat3802@gmail.com) 
 
-### 🔧 Technologies & Tools  
-- 💻 Languages: C++, Java, HTML, CSS, SQL  
-- 🛠️ Tools & Frameworks: Android Studio, Git, Python Automation  
-- 📱 Mobile Development: Java (Android)  
-- 🖥️ Interests: Python Automation, Generative Mathematics, Physics Simulations  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mehak-deep&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mehak-deep&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-deep&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 Always building, learning, and pushing boundaries in tech! Let's connect!  
+---
+[![](https://visitcount.itsvg.in/api?id=Mehak-deep&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
